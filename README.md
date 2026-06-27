@@ -2,7 +2,7 @@
 
 ## 💼 Sobre mim
 
-🎯 Data Analytics Jr
+🎯 Data Analytics Jr na Vivo
 
 📚 Estudando Engenharia de Dados
 
