@@ -46,7 +46,6 @@
 - AWS Cloud Practitioner
 - AWS Data Engineer
 - Databricks Fundamentals
-- Primeira vaga como Engenheiro de Dados
 
 ---
 
